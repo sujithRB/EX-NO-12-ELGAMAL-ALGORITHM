@@ -1,7 +1,7 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
 ### Name: SUJITH RB
 ### Reg.no: 212224103003
-### Date:
+### Date: 21-05-2026
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
